@@ -44,4 +44,4 @@
     不求结局  
     合：喔
 ### 封面
-！[封面](https://github.com/GCCCCG/Git_Test/cover.jpg)
+![封面](https://github.com/GCCCCG/Git_Test/cover.jpg)
